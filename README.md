@@ -77,10 +77,7 @@ sql_data_warehouse/                     # Root directory of the project
 ├── tests/                              # Test scripts and quality files
 │
 ├── README.md                           # Project overview and instructions
-├── LICENSE                             # License information for the repository
+
 ```
 ---
 
-## 🛡️ License
-
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
